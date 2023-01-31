@@ -1,0 +1,6 @@
+(["Cobra","Rabbit","Rooster","Tiger","Monkey"],[],[])
+((0,1),(1,2),"Rabbit")
+((0,1),(2,1),"Tiger")
+((0,2),(0,1),"Cobra")
+((0,3),(1,4),"Rooster")
+((1,2),(3,2),"Tiger")
